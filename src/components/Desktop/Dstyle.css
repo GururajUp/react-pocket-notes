@@ -1,0 +1,38 @@
+.desk_home {
+    width: 75%;
+    height: 100%;
+    background-color: #f7ecdc;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.desk_home > img {
+    margin-top: 15%;
+    width: 500px;
+    height: 235px;
+}
+
+.desk_home > h1,
+.desk_home > p {
+    margin: 0;
+    font-weight: 500;
+}
+
+.encryption-msg {
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 80px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.encryption-msg > img {
+    width: 1.2vw;
+    height: 1.2vw;
+}
