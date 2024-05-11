@@ -1,11 +1,17 @@
 
 import './App.css';
-import Home from './components/Desktop/Home';
+//import Content from './components/Desktop/Content';
+//import Left from './components/Desktop/Left';
+import Dmain from './pages/Dmain';
+//import Left from './components/Desktop/Left';
+//import Noteswrite from './components/Desktop/Noteswrite';
+//import Create from './components/Desktop/Create';
+//import Home from './components/Desktop/Home';
 
 function App() {
   return (
     <div >
-      <Home />
+      <Dmain />
     </div>
   );
 }

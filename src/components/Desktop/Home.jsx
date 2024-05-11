@@ -7,7 +7,7 @@ import "./Dstyle.css";
 function Home() {
   return (
     <div className="desk_home">
-			<img src={logo} alt="some folks with notepad and pencils" />
+			<img src={logo} alt="logo" />
 			<h1>Pocket Notes</h1>
 			<p>
 				Send and receive messages without keeping your phone online.
